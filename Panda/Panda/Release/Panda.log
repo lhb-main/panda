@@ -1,0 +1,11 @@
+﻿  Global.cpp
+F:\C语言\熊猫烧香\Panda\Panda\Global.cpp(120,24): warning C4101: “pImageSectionHeader”: 未引用的局部变量
+F:\C语言\熊猫烧香\Panda\Panda\Global.cpp(119,20): warning C4101: “pImageNtHeader”: 未引用的局部变量
+F:\C语言\熊猫烧香\Panda\Panda\Global.cpp(118,20): warning C4101: “pImageDosHeader”: 未引用的局部变量
+  Panda.cpp
+F:\C语言\熊猫烧香\Panda\Panda\Panda.cpp(81,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 11 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  Panda.vcxproj -> F:\C语言\熊猫烧香\Panda\Release\Panda.exe
